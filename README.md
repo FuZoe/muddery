@@ -26,6 +26,7 @@ Muddery should now be running and you can connect to it by pointing your web bro
 # 关服
 If you want to stop the server, you can use `muddery stop`.
 
+# 运行示例
 ![例图1](./img/1.png)
 
 ![例图2](./img/2.png)
