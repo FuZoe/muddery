@@ -11,6 +11,7 @@ Muddery is an online text game (like MUD) framework in Python. It is licensed un
 1. `pip install -e muddery` //不要运行这行命令，而是运行`pip install -e .`
 1. `muddery --init mygame` //初始化
 1. `cd mygame`
+1. `muddery setup`
 1. `muddery start`
 
 Muddery should now be running and you can connect to it by pointing your web browser to http://localhost:8000.
