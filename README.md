@@ -16,14 +16,14 @@ Muddery 是一个用 Python 编写的在线文本游戏（类似 MUD）框架。
 1. `muddery setup`
 1. `muddery start`
 
-#开服
+# 开服
 1. `cd mygame` 
 1. `muddery start`
 
-#访问
+# 访问
 Muddery should now be running and you can connect to it by pointing your web browser to http://localhost:8000.
 
-#关服
+# 关服
 If you want to stop the server, you can use `muddery stop`.
 
 ![例图1](./img/1.png)
