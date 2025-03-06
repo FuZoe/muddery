@@ -8,7 +8,7 @@ Muddery is an online text game (like MUD) framework in Python. It is licensed un
 1. `git clone https://github.com/muddery/muddery`
 1. `python -m venv mudenv`
 1. `source mudenv/bin/activate` (Linux, Mac) or `mudenv\Scripts\activate` (Windows) //不要运行这行命令，否则，将无法执行muddery start命令
-1. `pip install -e muddery` //不要运行这行命令，而是运行`pip install -e .`
+1. `pip install -e muddery` #挂梯子执行
 1. `muddery --init mygame` //初始化
 1. `cd mygame`
 1. `muddery setup`
