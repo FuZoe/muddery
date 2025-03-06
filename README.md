@@ -1,8 +1,8 @@
 # Intro
 Muddery is an online text game (like MUD) framework in Python. It is licensed under 3-clause BSD license.
+Muddery 是一个用 Python 编写的在线文本游戏（类似 MUD）框架。它遵循 3 条款 BSD 许可证。
 
-
-# Installation
+# 安装
 1. Install Python3.7+ and GIT. Start a Console/Terminal.
 1. `cd` to some place you want to do your development. 
 1. `git clone https://github.com/muddery/muddery`
@@ -16,8 +16,14 @@ Muddery is an online text game (like MUD) framework in Python. It is licensed un
 1. `muddery setup`
 1. `muddery start`
 
+#开服
+1. `cd mygame` 
+1. `muddery start`
+
+#访问
 Muddery should now be running and you can connect to it by pointing your web browser to http://localhost:8000.
 
+#关服
 If you want to stop the server, you can use `muddery stop`.
 
 ![例图1](./img/1.png)
